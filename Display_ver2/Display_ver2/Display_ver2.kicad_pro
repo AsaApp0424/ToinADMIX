@@ -247,7 +247,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Display.kicad_pro",
+    "filename": "Display_ver2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -324,7 +324,7 @@
   },
   "sheets": [
     [
-      "d8d08799-c793-4824-8077-a92339585114",
+      "d642f31c-4d5f-443a-ae08-789aa9345850",
       ""
     ]
   ],
